@@ -12,6 +12,8 @@ https://keras.io/
 
 2. Try training one of the DQN's on some different environments at the same time. If you modify and refine the DQN enough, you might end up with a gym AGI!
 https://gym.openai.com/envs/#classic_control
+Here is info on the observations and actions etc of the gym environments:
+https://github.com/openai/gym/wiki/Table-of-environments
 
 
 # The theory:
