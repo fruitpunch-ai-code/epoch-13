@@ -14,6 +14,8 @@ https://keras.io/
 https://gym.openai.com/envs/#classic_control
 
 
+# The theory:
+https://en.wikipedia.org/wiki/Q-learning
 
 
 # original readme
