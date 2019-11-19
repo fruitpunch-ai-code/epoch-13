@@ -1,3 +1,23 @@
+# Welcome to epoch 13 of FruitPunch AI Code!
+
+This time we have a more practical experimentation session.
+
+See the installation_instructions file for python, gym and keras installation instructions
+
+# The Deep Q Learning challenges:
+This time the challenges are a bit more open ended, so work together and have fun!
+
+1. Try modifying one the Deep Q Networks. Read all about the layers, activations, optimizers and losses that keras has to offer, and try out the ones you think can improve the DQN.
+https://keras.io/
+
+2. Try training one of the DQN's on some different environments at the same time. If you modify and refine the DQN enough, you might end up with a gym AGI!
+https://gym.openai.com/envs/#classic_control
+
+
+
+
+# original readme
+
 # deep-q-learning
 
 Introduction to Making a Simple Game AI with Deep Reinforcement Learning
