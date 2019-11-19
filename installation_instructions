@@ -1,0 +1,42 @@
+Download python 3.7.5
+
+https://www.python.org/downloads/release/python-375/
+
+Execute, tick the Add To Path option
+
+Press Windows key + R, type cmd and press enter to open the command prompt
+
+Enter:
+python --version
+
+This should output python 3.7.5
+
+Enter:
+python -m venv c:/path-name/environment-name
+to create an environment
+
+Enter:
+cd ../
+until you are back at the root
+
+Then enter:
+cd path-name/environment-name/scripts
+
+Enter:
+activate
+
+pip3 install gym
+pip3 install keras
+pip3 install tensorflow
+pip3 install jupyter (if you have no IDE, you can also download pycharm)
+
+Download this repository
+
+If you use jupyter, navigate to the downloaded files with cd, just like with creating the virtual environment
+
+Enter:
+jupyter notebook
+
+create a new notebook and copy the python file content to that notebook
+
+If you use an IDE instead of jupyter, set your IDE to use the venv, and open the python scripts as they are.
